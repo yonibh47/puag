@@ -803,4 +803,9 @@ body {
     font-size: 10px;
     margin-top: 5px;
   }
+
+  .about .row .image iframe {
+    width: 315;
+    height: 177;
+  }
 }
